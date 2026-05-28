@@ -12,9 +12,10 @@ Performance Optimized: Designed to handle large datasets with optimized memory u
 
 Technologies Used
 Language: Python
-Libraries: Pandas, [Add others, e.g., Requests, SQLAlchemy]
+Libraries: Pandas, SQLAlchemy
 Database: SQL
 Environment: Agile Development Lifecycle
+
 Getting Started
 Prerequisites
 Ensure you have Python 3.x installed. Install the required dependencies:
